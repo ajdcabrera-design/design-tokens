@@ -1,0 +1,14 @@
+{
+  "name": "design-tokens",
+  "version": "0.1.0",
+  "private": false,
+  "description": "Shared color, type, radius, and spacing tokens.",
+  "files": [
+    "tokens.css",
+    "DESIGN.md"
+  ],
+  "exports": {
+    "./tokens.css": "./tokens.css",
+    "./DESIGN.md": "./DESIGN.md"
+  }
+}
