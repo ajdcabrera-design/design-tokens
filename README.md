@@ -5,7 +5,7 @@ Shared color, type, radius, and spacing for the portfolio and UX Atlas. Edit `to
 ## Use it in a site
 
 ```bash
-npm install github:ajdcabrera-maker/design-tokens
+npm install github:ajdcabrera-design/design-tokens
 ```
 
 In the site stylesheet, after Tailwind:
